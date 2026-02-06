@@ -7,7 +7,8 @@
 
 > **Accelerating convergence in cooperative and competitive strategies via Game Theoretic Replicator Dynamics.**
 
-This repository contains the implementation and simulation code for the research paper: **"Multi-Agent Reinforcement Learning for Cooperative and Competitive Strategies via Game Theoretic Replicator Dynamics"**.
+This repository contains the implementation and simulation code for the research paper: **"Accelerating Global Innovation via Co-opetition Learning: Replicator-Guided Warm-Start Multi-Agent Reinforcement Learning
+"**.
 
 ## 📌 Abstract
 Cooperation among self-interested firms is a central driver of innovation ecosystems, yet learning-based strategic adaptation often exhibits long transient phases before reaching stable behavior. This project addresses the convergence-speed gap between equilibrium reasoning and learning-based adaptation.
