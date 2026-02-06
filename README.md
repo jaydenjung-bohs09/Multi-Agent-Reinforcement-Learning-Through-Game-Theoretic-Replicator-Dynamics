@@ -1,4 +1,5 @@
-# Multi-Agent Reinforcement Learning for Cooperative and Competitive Strategies via Game Theoretic Replicator Dynamics
+# Accelerating Global Innovation via Co-opetition Learning: Replicator-Guided Warm-Start Multi-Agent Reinforcement Learning
+
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
