@@ -67,3 +67,12 @@ cd marl-replicator-warmstart
 
 # Install dependencies
 pip install numpy matplotlib
+
+## 💻 Usage
+
+You can run the simulation to reproduce the paper's results comparing **Random-Start** vs. **Warm-Start**.
+
+### Basic Run
+Run the simulation with default settings using the warm-start method:
+```bash
+python main.py --rounds 10000 --agents 100 --init_mode warm_start
