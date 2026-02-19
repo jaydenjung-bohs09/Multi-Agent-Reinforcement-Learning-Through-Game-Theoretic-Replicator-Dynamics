@@ -62,7 +62,7 @@ Simulations were conducted to compare **Random-Start** vs. **Warm-Start** strate
 | **Convergence Time ($\tau_{0.02}$)** | 6,800 rounds | **1,050 rounds** | ~6.5x Faster |
 | **Convergence Time ($\tau_{0.01}$)** | 8,900 rounds | **1,920 rounds** | ~4.6x Faster |
 | **Tracking Error** | 0.088 | **0.020** | Significantly Lower |
-| **Stability ** | $1.7 \times 10^{-3}$ | **$4.1 \times 10^{-4}$** | More Stable |
+| **Stability** | $1.7 \times 10^{-3}$ | **$4.1 \times 10^{-4}$** | More Stable |
 
 > *Data sourced from Table I of the paper.*
 
